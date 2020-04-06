@@ -1,2 +1,3 @@
 # Hello-World
-JAP
+JAR
+#Exploring GitHub
